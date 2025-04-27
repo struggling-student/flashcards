@@ -1,0 +1,42 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+.ENV/
+
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+coverage.xml
+*.cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+.history/
+
+# PyCharm
+.idea/
+
+# macOS specific
+.DS_Store
+
+# Environment variables
+.env
