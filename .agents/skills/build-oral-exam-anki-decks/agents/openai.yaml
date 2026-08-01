@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Oral-Exam Anki Decks"
+  short_description: "Create rigorous, validated oral-exam Anki decks"
+  default_prompt: "Use $build-oral-exam-anki-decks to create or improve an explanation-heavy Anki deck from my course materials."
